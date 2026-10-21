@@ -1,0 +1,17 @@
+{
+  "name": "agentwolf27",
+  "description": "Vishrut Malhotra's Claude Code skills, published as one plugin.",
+  "owner": {
+    "name": "Vishrut Malhotra",
+    "url": "https://github.com/agentwolf27"
+  },
+  "plugins": [
+    {
+      "name": "vish",
+      "source": "./",
+      "description": "House files (PLAN, TASKS, PROGRESS, DECISIONS) with verify, state, handoff and decision; plan-together; a fresh-context plan reviewer; and a frontend skill for UI that shows measured numbers.",
+      "category": "workflow",
+      "tags": ["planning", "verification", "house-files", "frontend"]
+    }
+  ]
+}

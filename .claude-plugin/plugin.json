@@ -1,0 +1,13 @@
+{
+  "name": "vish",
+  "displayName": "Vish's skills",
+  "version": "1.0.0",
+  "description": "Nine Claude Code skills: four house files (PLAN, TASKS, PROGRESS, DECISIONS) with verify, state, handoff and decision as the verbs; plan-together for arguing a plan before building; a fresh-context plan reviewer; and a frontend skill for UI that shows measured numbers.",
+  "author": {
+    "name": "Vishrut Malhotra",
+    "url": "https://github.com/agentwolf27"
+  },
+  "repository": "https://github.com/agentwolf27/claude-skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "skills", "agent-skills", "planning", "verification", "frontend"]
+}
