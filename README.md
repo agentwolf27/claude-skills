@@ -175,8 +175,8 @@ Claude runs the commands itself. Pulse's own repo ships the same skills as slash
 
 ## Not in this repo
 
-Skills I use that are not mine to publish: Anthropic's bundled skills, plugins from marketplaces,
-and a few private ones with my own job-search details in them.
+Skills I use that are not mine to publish, or not meant for anyone else: Anthropic's bundled
+skills, plugins from marketplaces, and a few private ones.
 
 ## License
 
